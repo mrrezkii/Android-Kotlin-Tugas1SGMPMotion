@@ -3,14 +3,15 @@
     package="com.motionlaboratory.tugas_1_sg_mp_android_2">
 
     <application
+        android:name=".BaseApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.TUGAS_1_SG_MP_ANDROID_2">
+        android:theme="@style/Theme.TUGAS_1_SG_MP_ANDROID_2.NoActionBar">
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
