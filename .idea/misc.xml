@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/drawable-hdpi/layout_rounded_blue_8.xml" value="0.20052083333333334" />
         <entry key="app/src/main/res/drawable-hdpi/layout_rounded_white_8.xml" value="0.20052083333333334" />
         <entry key="app/src/main/res/drawable/ic_splash.xml" value="0.1935185185185185" />
+        <entry key="app/src/main/res/drawable/layout_rounded_white_8.xml" value="0.275" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.5" />
       </map>
